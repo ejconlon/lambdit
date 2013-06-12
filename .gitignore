@@ -1,0 +1,11 @@
+*.o
+*.swo
+*.swp
+*.bak
+*.tmp
+*.log
+*.pyc
+*~
+target
+log
+dist
